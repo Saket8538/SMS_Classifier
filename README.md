@@ -1,5 +1,5 @@
 # SMS-Classifier
-Task-1:SMS Classifier
+SMS Classifier
 
 Introduction:
 
