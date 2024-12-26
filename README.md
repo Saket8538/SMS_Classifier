@@ -1,4 +1,4 @@
-# Bharat-Intern-Task-1-SMS-Classifier
+# SMS-Classifier
 Task-1:SMS Classifier
 
 Introduction:
